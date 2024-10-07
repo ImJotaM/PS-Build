@@ -1,0 +1,13 @@
+Solution:
+
+SolutionName = "SolutionName"
+SolutionDir = "SolutionDir"
+
+Project:
+
+ProjectName = "ProjectName"
+ProjectDir = "ProjectDir"
+
+Project:
+
+ProjectName = "AnotherProject"
